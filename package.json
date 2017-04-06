@@ -1,0 +1,22 @@
+{
+  "name": "array_flattener",
+  "version": "1.0.0",
+  "description": "Flattens arbitrarily deep nested javascript arrays",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+    "chai": "3.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdsco/ArrayFlattener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdsco/ArrayFlattener/issues"
+  },
+  "homepage": "https://github.com/mdsco/ArrayFlattener#readme"
+}
